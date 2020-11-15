@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ab11ff8-0445-4e5a-978c-ea75e23988fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k0peaTiCrR4eydh1Jz0cnuwa9I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MVC/express-mvc" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\HK1_20_21\Lap trinh web\Trial\views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ab11ff8-0445-4e5a-978c-ea75e23988fd" name="Default Changelist" comment="" />
+      <created>1604847458304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604847458304</updated>
+      <workItem from="1604847459377" duration="3321000" />
+      <workItem from="1605434787318" duration="6773000" />
+      <workItem from="1605446776489" duration="16625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1605447016153">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605447016153" />
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1605463412269">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605463412269" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1605463412268">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605463412268" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1605463412268">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605463412268" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1605463412268">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605463412268" />
+  </component>
+</project>
