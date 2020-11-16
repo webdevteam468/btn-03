@@ -18,6 +18,7 @@
 
 
 .footer__container {
+    margin-top: 25px;
     padding-bottom: 65px;
     padding-top: 76px;
 }
@@ -39,13 +40,14 @@
   line-height: 26px;
 }
 .ft__logo {
-    margin-bottom: 24px;
+    max-width: available;
 }
 .ft__title {
     color: #444444;
     font-size: 18px;
     font-weight: 500;
-    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     text-transform: capitalize;
 }
 .htc__news__inner {

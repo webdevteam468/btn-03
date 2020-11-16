@@ -1953,7 +1953,7 @@ product__style--7
   18. Our Shop Area
 --------------------------------*/
 
-.shop__page .product__menu {
+.shop__page {
     text-align: left;
 }
 .shop__page .product__menu button:first-child {

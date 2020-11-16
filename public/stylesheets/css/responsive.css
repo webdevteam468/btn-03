@@ -1125,7 +1125,8 @@
         padding-top: 55px;
     }
     .logo img {
-        max-width: inherit;
+        max-height: border-box;
+
     }
     .menu-extra {
         margin-right: 40px;
